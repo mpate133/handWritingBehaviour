@@ -1,0 +1,39 @@
+Used 80% of the data for training:
+Linear Model Accuracy and Precision Scores:
+Emotional Stability Classifier:
+	Accuracy: 100.0%
+	Precision: 0.0%
+Mental Energy Classifier:
+	Accuracy: 83.71335504885994%
+	Precision: 100.0%
+Modesty Classifier:
+	Accuracy: 95.11400651465797%
+	Precision: 100.0%
+Flexibility Classifier:
+	Accuracy: 100.0%
+	Precision: 0.0%
+Discipline Classifier:
+	Accuracy: 100.0%
+	Precision: 100.0%
+Concentration Power Classifier:
+	Accuracy: 99.3485342019544%
+	Precision: 0.0%
+Communication Skill Classifier:
+	Accuracy: 98.0456026058632%
+	Precision: 0.0%
+Social Isolation Classifier:
+	Accuracy: 98.69706840390879%
+	Precision: 100.0%
+
+
+Alternative Models:
+Gaussian Kernel Radial Basis Function for Modesty:
+	Accuracy: 100.0%
+	Precision: 100.0%
+Sigmoid Kernel for Modesty:
+	Accuracy: 95.11400651465797%
+	Precision: 100.0%
+Polynomial Kernel for Modesty:
+	Accuracy: 100.0%
+	Precision: 100.0%
+

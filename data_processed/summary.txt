@@ -1,0 +1,27 @@
+Quantitative features:
+1. Top Margin
+	 min: 0.0
+	 max: 84.0
+	 median: 2.49
+
+2. Letter Size
+	 min: 0.0
+	 max: 34.8
+	 median: 16.0
+
+3. Line Spacing
+	 min: 0.0
+	 max: 4924.0
+	 median: 34.85
+
+4. Word Spacing
+	 min: 0.0
+	 max: 174.0
+	 median: 1.29
+
+Qualitative Feature :
+1. Angle of Slant
+	 Number of categories: 7
+	 Most Frequent Category: A LITTLE INCLINED
+	 Least Frequent Category: EXTREMELY RECLINED
+

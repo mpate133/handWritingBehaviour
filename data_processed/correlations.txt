@@ -1,0 +1,7 @@
+Correlation matrix is : 
+
+              Top margin  Letter size  Line spacing  Word spacing
+Top margin      1.000000    -0.660795      0.665092      0.217878
+Letter size    -0.660795     1.000000     -0.556920     -0.264651
+Line spacing    0.665092    -0.556920      1.000000      0.223303
+Word spacing    0.217878    -0.264651      0.223303      1.000000
